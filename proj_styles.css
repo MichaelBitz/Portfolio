@@ -1,0 +1,66 @@
+html{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.header {
+    text-align: center;
+    text-decoration: none;
+}
+#proj_title {
+    text-decoration: underline;
+    font-size: 50px;
+}
+
+body {
+    margin-left: 5%;
+}
+
+#tic_title {
+    text-align: center;
+}
+
+.tic_img {
+    display: inline-block;
+    width: 33%;
+    margin: auto;
+    height: 400px;
+}
+ #tic_photos {
+     display: flex;
+     justify-content: center;
+ }
+
+ #floo {
+     margin-top: 100px;
+ }
+.floo_fig {
+    display: inline-block;
+    width: 22%;
+    margin: 5px;
+    height: auto;
+}
+
+.floo_img {
+    display: absolute;
+    z-index: 0;
+    height: auto;
+    width: 100%;
+    border-style: solid;
+    border-color: black;
+}
+
+figcaption {
+    text-align: center;
+}
+
+#floo_vid {
+    border-style: solid;
+    border-color: black;
+}
+
+.hang_img {
+    width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
