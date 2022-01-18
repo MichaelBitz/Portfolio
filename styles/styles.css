@@ -5,7 +5,6 @@ html {
 #intro {
     text-align: center;
 }
-
 #title {
     margin-top: 50px;
 }
@@ -15,8 +14,7 @@ html {
     margin-left: 33%;
     margin-right: 33%;
     justify-content: space-between;
-    margin-bottom: 50px;;
-
+    margin-bottom: 50px;
 }
 .header_img {
     height: 30px;
@@ -26,13 +24,11 @@ html {
     border-style: solid;
     border-width: 50%;
 }
-
 #bio {
     font-size: small;
     margin-left: 20%;
     margin-right: 20%;
 }
-
 #nav {
     display: block;
     justify-content: center;
@@ -43,21 +39,17 @@ html {
     text-align: center;
     height: 200px;
 }
-
 .nav_block {
     margin-left: auto;
     margin-right: auto;
     display: inline-block;
     width: 33%;
     height: 100%;
-
 }
-
 .nav_img{
     width: 100%;
     max-height: 100%;
 }
-
 #proj_nav {
     background: url("media/proj.png") no-repeat;
     background-size: 100%;
@@ -67,12 +59,10 @@ html {
     background: url("media/exp.png") no-repeat;
     background-size: 100%;
 }
-
 #ach_nav {
     background: url("media/ach.png") no-repeat;
     background-size: 100%;
 }
-
 .nav_caption {
     margin: auto;
     background-color: black;
